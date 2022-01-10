@@ -1,0 +1,2 @@
+/home/surya/CDAC/ELDD/ELDD_EXAM_210950330039/2_QUESTION/sync.o
+

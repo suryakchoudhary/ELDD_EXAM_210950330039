@@ -1,0 +1,1 @@
+cmd_/home/surya/CDAC/ELDD/ELDD_EXAM_210950330039/2_QUESTION/sync.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/surya/CDAC/ELDD/ELDD_EXAM_210950330039/2_QUESTION/sync.ko /home/surya/CDAC/ELDD/ELDD_EXAM_210950330039/2_QUESTION/sync.o /home/surya/CDAC/ELDD/ELDD_EXAM_210950330039/2_QUESTION/sync.mod.o;  true
